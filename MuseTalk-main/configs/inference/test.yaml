@@ -1,0 +1,6 @@
+task_0:
+ video_path: "/home/digital-human-master-4aca17007ee137dad9b571a4f5d257a2443fe826/tx_input_video.mp4"
+ audio_path: "data/audio/sun.wav"
+ bbox_shift: -7
+  
+
