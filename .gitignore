@@ -1,0 +1,10 @@
+*.task
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+*.onnx
+*.pth
+*.mp4
+*.wav
+
