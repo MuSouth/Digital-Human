@@ -31,3 +31,6 @@ python main.py data/May --workspace model/trial_may -O --test --asr_model ave --
 conda activate musetalk
 cd home/digxxx/MuseTalk-main
 python -m scripts.inference --inference_config configs/inference/test.yaml 
+
+# 相关权重文件放在百度网盘中，如有需要，对应下载
+https://pan.baidu.com/s/1NZUnVDyE8gTC8ahM0y1oHw?pwd=9qp6 提取码: 9qp6 
